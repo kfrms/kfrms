@@ -13,9 +13,13 @@ Brazilian Designer learning front-end programming languages!
 
 #### Find me!
 
-![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[<img scr='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>]()
+
+[<img scr='https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white' alt='behance' height='30'>]()
+
+[<img scr='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/karen-martins-0b1917205/)
+
+
 ![Link Tree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahffeine&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
