@@ -4,7 +4,7 @@
   
 ##### Brazilian Designer learning front-end programming languages!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahffeine&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahffeine&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Languages
 
@@ -13,7 +13,7 @@
 
 #### Projects
 
-[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kahffeine&repo=KarMa.github.io&show_owner=true&theme=onedark)](https://github.com/BinaryDex/ProfileCustomizer)
+[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kahffeine&repo=KarMa.github.io&show_owner=true&theme=dracula)](https://github.com/BinaryDex/ProfileCustomizer)
 
 #### Softwares
 
