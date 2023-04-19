@@ -11,9 +11,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Projects
+### Projects https://github.com/kahffeine/CEAC
 
-[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kahffeine&repo=KarMa.github.io&show_owner=true&theme=dracula)](https://github.com/kahffeine/CEAC)
+[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kahffeine&repo=CEAC&show_owner=true&theme=dracula)](https://github.com/kahffeine/CEAC)
 
 ### Softwares
 
