@@ -13,7 +13,7 @@
 
 ### Projects
 
-[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kahffeine&repo=KarMa.github.io&show_owner=true&theme=dracula)](https://github.com/BinaryDex/ProfileCustomizer)
+[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kahffeine&repo=KarMa.github.io&show_owner=true&theme=dracula)](https://github.com/kahffeine/CEAC)
 
 ### Softwares
 
