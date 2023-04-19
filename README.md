@@ -4,7 +4,7 @@
   
 ### Brazilian Designer learning front-end programming languages!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahffeine&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahffeine&theme=dracula)](https://github.com/kahffeine)
 
 ### Languages
 
