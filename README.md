@@ -10,8 +10,13 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  
+### Frameworks
+  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Projects https://github.com/kahffeine/CEAC
+### Recent Projects
 
 [![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kahffeine&repo=CEAC&show_owner=true&theme=dracula)](https://github.com/kahffeine/CEAC)
 
@@ -27,7 +32,7 @@
 ### Contacts
 
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/k.mrtnsz/)
-[<img src='https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white' alt='Behance' height='30'>](https://www.behance.net/karenfernanda7/)  
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/karen-martins-0b1917205/)
+[<img src='https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white' alt='Behance' height='30'>](https://www.behance.net/kahffeine)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/kahffeine/)
 
 </section>
