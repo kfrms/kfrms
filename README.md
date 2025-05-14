@@ -1,11 +1,9 @@
 <section align="center">
 
 ## Hello! I'm Karen Martins :)
-  
-### Brazilian Designer learning front-end programming languages!
-
+<!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahffeine&theme=dracula)](https://github.com/kahffeine)
-
+--->
 ### Languages
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
