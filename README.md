@@ -34,7 +34,6 @@
 
 ### Contacts
 
-[<img src='https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white' alt='Behance' height='30'>](https://www.behance.net/kahffeine)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/kahffeine/)
 
 </section>
