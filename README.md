@@ -18,7 +18,7 @@
 
 ### Recent Projects
 
-[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kahffeine&repo=CEAC&show_owner=true&theme=dracula)](https://github.com/kahffeine/CEAC)
+[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kfrms&repo=CEAC&show_owner=true&theme=dracula)](https://github.com/kfrms/CEAC)
 
 ### Softwares
 
