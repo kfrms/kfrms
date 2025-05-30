@@ -1,6 +1,6 @@
 <section align="center">
 
-## Hello! I'm Karen Martins :)
+## Hey there! 👋
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahffeine&theme=dracula)](https://github.com/kahffeine)
 --->
@@ -32,6 +32,6 @@
 
 ### Contacts
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/kahffeine/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/kfrms/)
 
 </section>
