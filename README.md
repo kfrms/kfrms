@@ -7,8 +7,7 @@
 
 
 ## 🙋‍♂️ About me
-Profissional com experiência em suporte técnico para eletrônicos, atendimento ao cliente e conhecimento avançado de inglês (C1). Proativa, focada
-e altamente adaptável. Destaquei-me pela pontualidade, organização e саpacidade de aprendizado rápido em funções anteriores
+My name is Karen Martins, and over the past few years, I have been dedicating myself to the study of technology, with a focus on design and web development. Through both courses and self-initiative, I have studied and developed projects using HTML, CSS, JavaScript, and PHP. In addition to my passion for technology, I have a strong personal interest in art, music, and cinema, which often inspire my creative approach to problem-solving and design.
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahffeine&theme=dracula)](https://github.com/kahffeine)
 --->
@@ -29,7 +28,7 @@ e altamente adaptável. Destaquei-me pela pontualidade, organização e саpaci
 
 ## Recent Projects
 
-[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kfrms&repo=CEAC&show_owner=true&theme=dracula)](https://github.com/kfrms/CEAC)
+[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kfrms&repo=Jaws-Website&show_owner=true&theme=dracula)](https://github.com/kfrms/Jaws-Website)
 [![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kfrms&repo=First-PHP-MySQL-Project&show_owner=true&theme=dracula)](https://github.com/kfrms/First-PHP-MySQL-Project)
 
 ## Softwares
