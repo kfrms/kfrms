@@ -13,6 +13,7 @@ My name is Karen Martins, and over the past few years, I have been dedicating my
 --->
 ## Currently Learning
 [![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/kfrms)
+<img src="assets/js.png" width="64">
 
 ## Languages
 
@@ -28,8 +29,8 @@ My name is Karen Martins, and over the past few years, I have been dedicating my
 
 ## Recent Projects
 
-[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kfrms&repo=Jaws-Website&show_owner=true&theme=dracula)](https://github.com/kfrms/Jaws-Website)
-[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kfrms&repo=First-PHP-MySQL-Project&show_owner=true&theme=dracula)](https://github.com/kfrms/First-PHP-MySQL-Project)
+[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kfrms&repo=pokemon-finder&show_owner=true&theme=dracula)](https://github.com/kfrms/pokemon-finder)
+[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=kfrms&repo=calculator-study&show_owner=true&theme=dracula)](https://github.com/kfrms/calculator-study)
 
 ## Softwares
 
