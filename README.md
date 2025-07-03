@@ -13,7 +13,7 @@ My name is Karen Martins, and over the past few years, I have been dedicating my
 --->
 ## Currently Learning
 [![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/kfrms)
-<a href="https://www.freecodecamp.org/fcc-ef577c68-1de3-4675-857c-aa0695df3171"><img src="assets/free-code-camp.svg" width="88"></a>
+<a href="https://www.freecodecamp.org/fcc-ef577c68-1de3-4675-857c-aa0695df3171" target="_blank"><img src="assets/free-code-camp.svg" width="88"></a>
 <img src="assets/js.png" width="64">
 
 ## Languages
